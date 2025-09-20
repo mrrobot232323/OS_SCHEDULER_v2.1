@@ -114,8 +114,9 @@ All Rights Reserved
 ---
 ## 📩 Contact  
 - **Email:** at16690624@gmail.com  
-- **GitHub:** [[Your GitHub Link Here](https://github.com/mrrobot232323)]  
+- **GitHub:** [[CLICK](https://github.com/mrrobot232323)]  
 - **Live Demo:** [osschduler.netlify.app]([https://osschudlermain.netlify.app/])  
+
 
 
 
