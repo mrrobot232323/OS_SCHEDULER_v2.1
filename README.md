@@ -1,10 +1,10 @@
-﻿# 🖥️ OS_SCHEDULER v2.1 — Retro Edition  
+# 🖥️ OS_SCHEDULER v2.1 — Retro Edition  
 
-[View Live Demo ↗]([https://osschudlermain.netlify.app/)  
 
+## 🔗 Live Demo  
+[Open the Retro Terminal version of OS Scheduler](https://osschudlermain.netlify.app/)  
 
 ---
-
 ## 👨‍💻 Developed By  
 - **Mr Robot**
 
@@ -116,5 +116,6 @@ All Rights Reserved
 - **Email:** at16690624@gmail.com  
 - **GitHub:** [Your GitHub Link Here]  
 - **Live Demo:** [osschduler.netlify.app](https://osschduler.netlify.app/)  
+
 
 
